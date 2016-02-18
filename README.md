@@ -1,2 +1,2 @@
 # RFNBC
-Aggregate Fuzzy Naive Bayes Classifier
+Aggregated Fuzzy Naive Bayes Classifier
